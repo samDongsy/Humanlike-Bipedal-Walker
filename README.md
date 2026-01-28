@@ -30,7 +30,7 @@ LLM: Identifies issue, proposes airborne penalty and gait continuity rewards
 [Repeat until satisfactory humanlike gait achieved]
 ```
 
-![method](./images/method.png)
+![method](./images/methods.png)
 
 
 
