@@ -32,7 +32,9 @@ LLM: Identifies issue, proposes airborne penalty and gait continuity rewards
 
 ![method](./images/methods.png)
 
+## Results
 
+https://github.com/user-attachments/assets/e711dfa5-5380-4f4d-9306-2a9d4e0dfc42
 
 ## Preparation
 
